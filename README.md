@@ -1,3 +1,3 @@
 <div align="center">
-    <h1>Codificación Huffman</h1>
+    <h1>Huffman coding</h1>
 </div>
